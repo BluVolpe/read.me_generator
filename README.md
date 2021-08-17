@@ -6,7 +6,7 @@
 ## Description
 A read.me template generator made with javascript. This read.me was made with the generator.
 
-
+## Getting started
 ### Dependencies
 ```npm install inquirer```
 
