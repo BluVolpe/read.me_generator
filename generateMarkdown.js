@@ -59,6 +59,7 @@ function generateMarkdown(data) {
 ${data.description}
 
 ##Getting Started
+
 ### Dependencies
 ${data.dependencies}
 
